@@ -1,11 +1,9 @@
-# Structured-Issuer-TechServices-MohammedAhsanKollathodi-ManagerModuleProcessingControlPanel-v 1.0 (Development in progress)
+# Structured-Issuer-TechServices-ManagerModuleProcessingControlPanel (Development in progress)
 CLOAutomator v1.0 is designed to automate CLO monitoring, with basic functionalities and key information integrated into a monitoring and control panel.
 
 pre-requisite : 
 
 python -m pip install PyQt5
-
-
 
 
 
