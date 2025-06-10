@@ -17,9 +17,7 @@ We plan to automate CLO monitoring and analysis through various methods, as disc
 Recent Updates :
 
 - S3 notification alerts were implemented to notify the arrival of various trigger files for multiple clients. Further enhancements are currently in progress.
-
 - A wireframe was developed for the CLO Control and Monitoring Panel application and reviewed by the team.
-
 - The GUI has been implemented using Python and related libraries such as PyQt5 and is currently in its initial phase.
-
+- Backend development—which includes database management, communication with the front end, file handling, security measures, and the addition of necessary features and functionalities—will commence after the GUI is completed.
  
